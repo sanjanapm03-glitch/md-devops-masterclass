@@ -1,0 +1,9 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+!code/
+!code/scripts/
+!code/scripts/**
+!code/scripts/jenkins.sh
+!code/scripts/jenkins\ script\ uploded/
+!code/scripts/jenkins\ script\ uploded/**
+!.gitignore
